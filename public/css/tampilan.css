@@ -1,0 +1,181 @@
+:root{
+    --white: #fff;
+    --black: #101116;
+    --red: #F50A0A;
+    }
+    
+    
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-decoration: none;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    body {
+        background-color: var(--black);
+    }
+    
+    .back{
+        color: var(--red);
+        margin: 15px 0 0 20px;   
+    }
+    
+    .back a {
+        color: #F50A0A;
+    }
+    
+    .judul h1 {
+        color: var(--white);
+        margin: 0 0 0 110px;
+    }
+    
+    .logo-film {
+        color: var(--white);
+        display: flex;
+    }
+    
+    .logo-film img{
+        width: 230px;
+        height: 350px;
+        margin: 10px 0 0 95px;
+        border-radius: 5px;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .keterangan {
+        padding: 0px;
+        margin: 10px 10px;
+    }
+    
+    .keterangan h3 {
+        font-weight: 500;
+        text-align: justify;
+    }
+    
+    .keterangan h3 span{
+        margin-left: 10px;
+    }
+    
+    .keterangan #sinopsis {
+        width: 900px;
+    }
+    
+    .rating {
+        margin-left: 100px;
+        display: flex;
+    }
+    
+    .star {
+        color: yellow;
+    }
+    
+    .rating-number {
+        font-size: 23px;
+        color: var(--white);
+        
+    }
+    
+    .rating-number h4 {
+        font-weight: 600;
+        margin-left: 10px;
+        margin-top: -4px;
+        display: flex;
+    }
+    
+    .bookmark {
+        color: var(--white);
+        margin-left: 3px;
+    }:root{
+        --white: #fff;
+        --black: #101116;
+        --red: #F50A0A;
+        }
+        
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            text-decoration: none;
+            font-family: 'Poppins', sans-serif;
+        }
+        
+        body {
+            background-color: var(--black);
+        }
+        
+        .back{
+            color: var(--red);
+            margin: 15px 0 0 20px;   
+        }
+        
+        .back a {
+            color: #F50A0A;
+        }
+        
+        .judul h1 {
+            color: var(--white);
+            margin: 0 0 0 110px;
+        }
+        
+        .logo-film {
+            color: var(--white);
+            display: flex;
+        }
+        
+        .logo-film img{
+            width: 230px;
+            height: 350px;
+            margin: 10px 0 0 95px;
+            border-radius: 5px;
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .keterangan {
+            padding: 0px;
+            margin: 10px 10px;
+        }
+        
+        .keterangan h3 {
+            font-weight: 500;
+            text-align: justify;
+        }
+        
+        .keterangan h3 span{
+            margin-left: 10px;
+        }
+        
+        .keterangan #sinopsis {
+            width: 900px;
+        }
+        
+        .rating {
+            margin-left: 100px;
+            display: flex;
+        }
+        
+        .star {
+            color: yellow;
+        }
+        
+        .rating-number {
+            font-size: 23px;
+            color: var(--white);
+            
+        }
+        
+        .rating-number h4 {
+            font-weight: 600;
+            margin-left: 10px;
+            margin-top: -4px;
+            display: flex;
+        }
+        
+        .bookmark {
+            color: var(--white);
+            margin-left: 3px;
+        }
